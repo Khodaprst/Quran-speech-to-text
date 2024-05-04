@@ -21,3 +21,6 @@ small: 244 Mb
 medium: 769 Mb
 large: 1550 Mb
 large-v2: 1550 Mb
+
+this is a python code and feel free to ues or improve it! 
+I'm eagerly wating for your comments
