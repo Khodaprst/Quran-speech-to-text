@@ -1,10 +1,10 @@
 # Speech-to-text
 
 Hello, My name is amir and am new in NLP.
-My first task as an intern in this field, was processing Qur'An verses to spill it with the highest accuracy.
+My first task as an intern in this field, was processing Qur'an verses to spill it with the highest accuracy.
 After 2 weeks of searching, I found the whisper model from hugging face(huggingface.co).
 
-my task was split a verse from Qur'An into 30 seconds and then, process each piece to text.
+my task was split a verse from Qur'an into 30 seconds and then, process each piece to text.
 
 ## importing libraries:
 you need to install this libraries:
