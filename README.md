@@ -1,4 +1,4 @@
-# Speech-to-text
+# Speech-to-text for Qur'an verses !
 
 Hello, My name is amir and am new in NLP.
 My first task as an intern in this field, was processing Qur'an verses to spill it with the highest accuracy.
